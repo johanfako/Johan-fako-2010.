@@ -19,7 +19,7 @@
 # Ak tento program považujete za užitočný, zvážte malý
 # príspevok vývojárovi na nasledujúcu Bitcoin adresu:
 #
-#           3Au8ZodNHPei7MQiSVAWb7NB2yqsb48GW4
+#           NL95ABNA 0118620150
 #
 #                      Ďakujem!
 
